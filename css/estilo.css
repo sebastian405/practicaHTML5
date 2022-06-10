@@ -1,0 +1,28 @@
+#txt{
+    float: left;
+    text-align: center;
+}
+
+#texto{
+    float: right;
+    color: rgb(4, 249, 151);
+    font-family:monospace;
+    padding-left: 20px;
+    padding-top: 48px;
+}
+
+#imagen{
+    border-radius: 100px;
+}
+
+#navegacion{
+    color: red;
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#tabla{
+    border-color: blue;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
